@@ -1,0 +1,2 @@
+mercenaries.txt
+simulation02.txt
